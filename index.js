@@ -1,2 +1,7 @@
 var i int;
-i += 1;
+console.log(i);
+
+function aa(){
+    var a int;
+    a = 1;
+}
